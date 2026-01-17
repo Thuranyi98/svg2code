@@ -139,6 +139,15 @@ export default function SVGConverter() {
           </p>
         </header>
 
+        {/* Ad Banner */}
+        <div className="mb-6 text-center">
+          <div 
+            id="ad-banner" 
+            className="inline-block"
+            data-ad-key="b84960de09b7b935c3d7bbd1fb1c7c55"
+          />
+        </div>
+
         {/* Main Content */}
         <div className="max-w-7xl mx-auto">
           {/* File Upload Section */}
