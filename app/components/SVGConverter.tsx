@@ -141,11 +141,14 @@ export default function SVGConverter() {
 
         {/* Ad Banner */}
         <div className="mb-6 text-center">
-          <div 
-            id="ad-banner" 
-            className="inline-block"
-            data-ad-key="b84960de09b7b935c3d7bbd1fb1c7c55"
-          />
+          <a
+            href="https://www.effectivegatecpm.com/bewfiw7m?key=b84960de09b7b935c3d7bbd1fb1c7c55"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-sm text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200 transition-colors"
+          >
+            Advertisement
+          </a>
         </div>
 
         {/* Main Content */}
